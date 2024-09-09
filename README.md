@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Mental Health Chatbot](https://github.com/TheDarkKnight69/mental-health-chatbot)
 
-- 🌱 I’m currently learning **Gamedev, C++**
+- 🌱 I’m currently learning **Unity(I'm trying :( ), C++**
 
 - 👨‍💻 All of my projects are available at [https://thedarkknight69.github.io/](https://thedarkknight69.github.io/)
 
