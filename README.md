@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedarkknight69" alt="thedarkknight69" /></a> </p>
 
-- 🔭 I’m currently working on [Silver Chalice]([https://github.com/TheDarkKnight69/TextAdventureGame)
+- 🔭 I’m currently working on [Silver Chalice](https://github.com/TheDarkKnight69/TextAdventureGame)
 
 - 🌱 I’m currently learning **Unity(I'm trying :( ), C++**
 
