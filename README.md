@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedarkknight69" alt="thedarkknight69" /></a> </p>
 
-- 🔭 I’m currently working on [Mental Health Chatbot](https://github.com/TheDarkKnight69/mental-health-chatbot)
+- 🔭 I’m currently working on [Silver Chalice]([https://github.com/TheDarkKnight69/TextAdventureGame)
 
 - 🌱 I’m currently learning **Unity(I'm trying :( ), C++**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **brucieboi123@gmail.com**
 
-- ⚡ Fun fact **I'm CBum but like way bigger**
+- ⚡ Fun fact **I love playing football, I'm a fairly good goalie :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
